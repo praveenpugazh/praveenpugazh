@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Praveen Pugazh
 #### Development & Design
-![Development & Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- ![Development & Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I'm Praveen from Chennai. I really enjoy creating websites.
 
